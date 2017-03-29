@@ -1,0 +1,131 @@
+* {box-sizing: border-box;
+    margin: 0 auto;
+}
+
+body {
+}
+
+nav {
+    position: fixed;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #F3C81A;
+    height: 80px;
+    width: 960px;
+    font-size: 30px;
+    vertical-align: center;
+}
+
+nav ul {
+    float: right;
+    text-align: right;
+}
+
+nav li {
+    display: inline-block;
+}
+
+.title {
+    font-family: 'Hind';
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+img {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.button {
+    font-size: 18px;
+    font-family: 'Hind';
+    padding-top: 15px;
+    padding-left: 5px;
+}
+
+
+.button1 {
+    padding-left: 10px;
+}
+
+.button2 {
+    padding-left: 10px;
+}
+
+.button3 {
+    padding-left: 10px;
+    padding-right: 15px;
+}
+
+section {
+    background-color: #F3E0CF;
+}
+
+.pic {
+    background-image: url("film00.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    font-size: 100px;
+    width: 960px;
+    padding-top: 80px;
+}
+
+.context {
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Coming Soon';
+}
+
+.sec {
+    height: 800px;
+    width: 960px;
+    padding: 15px 15px;
+}
+
+.secimg {
+    width: 300px;
+    height: 300px;
+    padding: 15px 15px;
+}
+
+article {
+    display: inline-block;
+}
+
+.secp1 {
+    width: 300px;
+    padding-left: 15px;
+}
+
+.secp2 {
+    width: 300px;
+    padding-left: 15px;
+}
+
+.secp3 {
+    width: 300px;
+    padding-left: 15px;
+}
+
+footer {
+    background-color: #F3C81A;
+    height: 60px;
+    width: 960px;
+    font-size: 18px;
+}
+
+.copyright {
+    font-family: 'Coming Soon';
+    text-align: center;
+    padding-top: 18px;
+}
+
+.tuto {
+    text-align: center;
+    vertical-align: center;
+    font-family: 'Amatic SC';
+    padding-top: 50px;
+}
